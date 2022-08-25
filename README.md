@@ -1,4 +1,4 @@
 # TestGitub
 ---
-![Test Image](/Resources/Gradualtion.png)
+![Test Image](/Resources/Graduation.png)
 ---
